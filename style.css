@@ -1,0 +1,41 @@
+body{
+	background-image: url(family.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+	margin-right: 150px;
+	font-size: 50px;
+}
+p {
+	text-transform: uppercase;
+	text-align: center;
+	margin-right: 70px;
+	font-size: 25px;
+}
+h2 {
+	text-transform: uppercase;
+	text-align: center;
+	margin-right: 150px;
+	font-size: 50px;
+}
+h3 {
+	text-transform: uppercase;
+	text-align: center;
+	margin-right: 150px;
+	font-size: 50px;
+}
+h4 {
+	text-transform: uppercase;
+	text-align: center;
+	margin-right: 150px;
+	font-size: 50px;
+}
+h5 {
+	text-transform: uppercase;
+	text-align: center;
+	margin-right: 150px;
+	font-size: 50px;
+}
